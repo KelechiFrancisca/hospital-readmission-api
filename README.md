@@ -74,7 +74,6 @@ Impact: Hospitals can intervene sooner, saving lives and reducing costs.
 ### Streamlit App Interface
 ![Hospital Readmission Predictor](images/streamlit_app.png)
 
-
 👥 Contributors
 Kelechi Francisca (Lead Developer, Data Scientist)
 
