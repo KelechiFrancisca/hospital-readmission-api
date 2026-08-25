@@ -49,5 +49,13 @@ Solution: Predictive model to flag high-risk patients early.
 
 Impact: Hospitals can intervene sooner, saving lives and reducing costs.
 
+## 🚀 Usage
+
+ Clone the repository:
+   ```bash
+   git clone https://github.com/KelechiFrancisca/hospital-readmission-api.git
+   cd hospital-readmission-api
+
+
 👥 Contributors
 Kelechi Francisca (Lead Developer, Data Scientist)
