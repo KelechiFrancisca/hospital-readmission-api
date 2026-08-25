@@ -8,19 +8,33 @@ It combines:
 - **Machine Learning (Logistic Regression)** trained in Google Colab.
 - **Flask API** for serving predictions.
 - **React Frontend** for user interaction.
+- **Streamlit App for quick demo and visualization.
 - **Saved Models + Preprocessor** for deployment-ready reproducibility.
 
 ## 📂 Repository Structure
 - `backend/` → Flask API + saved models (`readmission_model.pkl`, `preprocessor.pkl`)
 - `notebooks/` → Colab training notebook (`hospital_readmissions.ipynb`)
+- `app.py → Streamlit app interface
 - `README.md` → project documentation
 
 ## 🚀 How to Run
+### Clone the repository
+```bash
+git clone https://github.com/KelechiFrancisca/hospital-readmission-api.git
+cd hospital-readmission-api
+```
 ### Backend
 ```bash
 cd backend
 pip install -r requirements.txt
 python run_readmission.py
+~~~
+
+### Streamlit App (Interactive Demo)
+    Run the predictor locally:
+```bash
+streamlit run app.py
+
 
 
 Notebook
@@ -49,12 +63,9 @@ Solution: Predictive model to flag high-risk patients early.
 
 Impact: Hospitals can intervene sooner, saving lives and reducing costs.
 
-🚀 Usage
+### 
+<img width="1125" height="671" alt="hospital-readmission-api pix" src="https://github.com/user-attachments/assets/a705076c-0a34-4a7c-b1ef-f59053d5c38a" />
 
- Clone the repository:
-   ```bash
-   git clone https://github.com/KelechiFrancisca/hospital-readmission-api.git
-   cd hospital-readmission-api
 
 👥 Contributors
 Kelechi Francisca (Lead Developer, Data Scientist)
