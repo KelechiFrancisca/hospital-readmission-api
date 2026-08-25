@@ -56,6 +56,24 @@ Impact: Hospitals can intervene sooner, saving lives and reducing costs.
    git clone https://github.com/KelechiFrancisca/hospital-readmission-api.git
    cd hospital-readmission-api
 
-
 👥 Contributors
 Kelechi Francisca (Lead Developer, Data Scientist)
+
+
+🔮 Future Work
+This project is designed with long‑term impact in mind, extending well beyond its initial demonstration:
+
+Hospital workflow integration  
+Embed predictions into discharge planning to flag high‑risk patients and schedule timely follow‑ups.
+
+Healthcare cost reduction  
+Help hospitals avoid Medicare/insurance penalties and reduce billions in readmission costs.
+
+Patient‑centered care  
+Extend the model to include social determinants of health (housing, food security, isolation) for more accurate predictions.
+
+Policy and public health  
+Governments and health systems could adopt predictive tools to monitor hospital performance and improve national outcomes.
+
+Technology expansion  
+Integrate with electronic health records (EHRs) via HL7 FHIR APIs, deploy on cloud platforms, or create mobile apps for patient reminders.
