@@ -49,7 +49,7 @@ Solution: Predictive model to flag high-risk patients early.
 
 Impact: Hospitals can intervene sooner, saving lives and reducing costs.
 
-## 🚀 Usage
+🚀 Usage
 
  Clone the repository:
    ```bash
