@@ -81,6 +81,30 @@ Backend API serves predictions via /predict endpoint
 
 Ready for deployment on Render, Heroku, or Streamlit Cloud
 
+## 🏥 Clinical Use Case Roadmap
+
+This app is currently a **prototype** hosted on Render. It demonstrates how predictive analytics can estimate hospital readmission risk using patient data. In real-world healthcare, predictive models must be **embedded into EHR dashboards** to be effective — if buried in separate portals, they are rarely used by clinicians.
+
+### Current Capabilities
+- Collects patient features (age, diagnoses, labs, medications, visits).
+- Runs a logistic regression model.
+- Outputs a readmission risk score with probability and recommendation.
+- Provides a clean web interface for demonstration.
+
+### Future Roadmap
+- **API Layer**: Wrap the model in a REST API (FastAPI/Flask) for automated data exchange.
+- **EHR Integration**: Connect via HL7/FHIR APIs so predictions appear inside Epic, Cerner, or other hospital dashboards.
+- **Workflow Embedding**: Add alerts for high-risk patients during discharge planning and notify case managers automatically.
+- **Population Health Dashboard**: Aggregate predictions across patients to identify trends and allocate resources strategically.
+- **Compliance & Security**: Ensure HIPAA/GDPR compliance with authentication, audit logs, and secure hosting.
+
+### Impact
+Predictive analytics integrated into clinical workflows can:
+- Reduce readmissions by **15–30%**.
+- Save billions in healthcare costs.
+- Improve patient outcomes through proactive follow-up care.
+
+
 💡 Impact
 Problem: 30‑day readmissions cost billions and waste hospital resources.
 
