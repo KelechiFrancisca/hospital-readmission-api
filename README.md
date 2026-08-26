@@ -90,10 +90,10 @@ Impact: Hospitals can intervene sooner, saving lives and reducing costs.
 ## 📸 Screenshots
 
 ### Streamlit App Inputs
-![Hospital Readmission Predictor Inputs](images_streamlit_inputs.png)
+![Hospital Readmission Predictor Inputs](images/streamlit_inputs.png)
 
 ### Prediction Result
-![Hospital Readmission Predictor Result](images_streamlit_result.png)
+![Hospital Readmission Predictor Result](images/streamlit_result.png)
 
 
 👥 Contributors
