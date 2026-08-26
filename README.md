@@ -7,7 +7,8 @@ https://img.shields.io/badge/Deploy-Render-green?logo=render
 https://img.shields.io/badge/Build-Passing-brightgreen
 
 🔗 Live Demo
-👉 Hospital Readmission Predictor on Render (hospital-readmission-predictor.onrender.com in Bing)  
+👉 Hospital Readmission Predictor on Render (https://hospital-readmission-api-s2q8.onrender.com)
+    The app is hosted on Render, with free tier limitations (it may spin down after inactivity).     
 
 📌 Project Overview
 Hospital readmissions are a major global challenge — costing US hospitals $26B annually and wasting scarce beds in Nigeria.
