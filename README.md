@@ -7,6 +7,11 @@
 ![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
 
 
+🔗 Live Demo
+👉 Hospital Readmission Predictor on Render (https://hospital-readmission-api-s2q8.onrender.com)
+    The app is hosted on Render, with free tier limitations (it may spin down after inactivity).     
+
+
 ## 🔗 Live Demo
 👉 [Hospital Readmission Predictor on Render](https://hospital-readmission-api-s2q8.onrender.com)
 
@@ -132,3 +137,6 @@ Patient‑Centered Care → Extend the model to include social determinants of h
 Policy & Public Health → Governments and health systems could adopt predictive tools to monitor hospital performance.
 
 Technology Expansion → Deploy on cloud platforms, integrate with EHRs, or create mobile apps for patient reminders.
+
+Technology expansion → Integrate with EHRs via HL7 FHIR APIs, deploy on cloud platforms, or create mobile apps for patient reminders
+
